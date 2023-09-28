@@ -1,9 +1,8 @@
 # LSPD
 The official open source code of LSPD.
 
-#Tie
+# TiP
 Due to the network and other technical reasons on GitHub in China, the relevant code is being uploaded and updated as soon as possible.
-
 
 # Acknowledgement
 Thanks to Shih-En Wei and Varun Ramakrishna and Takeo Kanade and Yaser Sheikh, this pipeline is largely built on their "Convolutional Pose Machines" training code available at:
